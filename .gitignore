@@ -1,2 +1,6 @@
 web004/__pycache__/
+web004/migrations/__pycache__/
 core/__pycache__/
+core/migrations/__pycache__/
+ordenes/__pycache__/
+ordenes/migrations/__pycache__/
